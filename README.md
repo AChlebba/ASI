@@ -7,5 +7,6 @@
  - [ ] [nazwa aplikacji](egzamin)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
 
-* wersja języka Ruby 2.3
-* wersja Rails 5.0
+|Wersja Ruby|Wersja Rails|Baza danych|
+|---|---|---|
+|2.3.0p0|5.0.0.beta3|SQLite|
